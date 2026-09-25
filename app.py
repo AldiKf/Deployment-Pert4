@@ -1,8 +1,4 @@
-"""Jalankan: python -m streamlit run app.py.
 
-File deployment: app.py, model.joblib, dan requirements.txt dalam satu folder.
-Model dilatih di notebook; aplikasi ini hanya memuat model dan melakukan prediksi.
-"""
 from pathlib import Path
 
 import joblib
